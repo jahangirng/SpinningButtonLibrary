@@ -1,0 +1,2 @@
+include ':sample', ':spinningbutton'
+rootProject.name='My Application3'
