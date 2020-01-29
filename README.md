@@ -2,7 +2,7 @@
 A spinning button animation library
 
 # For gradle import
-# Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
+Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
 
     allprojects 
     {
@@ -13,7 +13,7 @@ A spinning button animation library
         }
     }
 
-# Step 2. Add the dependency to app level build.gradle
+Step 2. Add the dependency to app level build.gradle
     dependencies 
     {
         implementation 'com.github.jahangirng:SpinningButtonLibrary:v1.0'
